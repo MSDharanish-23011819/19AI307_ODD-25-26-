@@ -35,8 +35,8 @@ Create a Person superclass and a Student subclass with a marks field, and calcul
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: AASHIKA JAIN
-RegisterNumber: 212224110001
+Developed by: DHARANISH MS
+RegisterNumber: 212223240027
 */
 ```
 
