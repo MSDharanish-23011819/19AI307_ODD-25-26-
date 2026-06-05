@@ -43,7 +43,7 @@ To write a Java program that uses conditional statements to determine the state 
 ## PROGRAM:
  ```
 
-Program to implement variables and Operators using Java
+Program to implement Conditional statement using Java
 Developed by: DHARANISH MS
 RegisterNumber: 212223240027
 
