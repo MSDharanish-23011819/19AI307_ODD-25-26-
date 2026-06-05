@@ -28,8 +28,8 @@ To implement the Mediator Design Pattern using a ChatRoom class where users comm
 ```java
 /*
 Program to implement Behaviour Pattern using Java (Observer Pattern)
-Developed by: AASHIKA JAIN
-RegisterNumber: 212224110001
+Developed by: DHARANISH MS
+RegisterNumber: 212223240027
 */
 ```
 
