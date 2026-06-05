@@ -25,8 +25,8 @@ To write a Java program that demonstrates stream chaining by placing a BufferedR
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: AASHIKA JAIN
-RegisterNumber: 212224110001
+Developed by: DHARANISH MS
+RegisterNumber: 212223240027
 */
 ```
 
