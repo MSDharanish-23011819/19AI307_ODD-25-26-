@@ -39,8 +39,8 @@ To develop a Java program that uses the Factory Pattern to generate different ty
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: AASHIKA JAIN
-RegisterNumber: 212224110001
+Developed by: DHARANISH MS
+RegisterNumber: 212223240027
 */
 ```
 
