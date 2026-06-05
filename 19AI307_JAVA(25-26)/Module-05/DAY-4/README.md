@@ -27,8 +27,8 @@ To write a Java program that demonstrates multithreading by creating a user-defi
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: AASHIKA JAIN
-RegisterNumber: 212224110001 
+Developed by: DHARANISH MS
+RegisterNumber: 212223240027
 */
 ```
 
